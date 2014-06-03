@@ -1,6 +1,6 @@
 # Corporation Trophies
 |#|Name|Desc|
--------------
+|-|----|----|
 ||When you need the human touch. |(Play as Jinteki#67)|
 ||Replicating Perfection |(Win as Jinteki Trace Amount #31)|
 ||Effective. Reliable. Humane. |(Play as Haas Bioroid)|
