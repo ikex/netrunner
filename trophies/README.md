@@ -3,12 +3,12 @@
 ## Corporation ID Achievements
 ### Core
 
-id|Name|Description
---|----|-----------
-J|When you need the human touch.|(Play as Jinteki)
-H|Effective. Reliable. Humane. |(Play as Haas Bioroid)
-N|Someone is always watching. |(Play as NBN)
-W|Moving Upwards |(Play as Weyland)
+id | Name | Description
+--- | --- | ---
+J | When you need the human touch. | (Play as Jinteki)
+H | Effective. Reliable. Humane. | (Play as Haas Bioroid)
+N | Someone is always watching. | (Play as NBN)
+W | Moving Upwards | (Play as Weyland)
 
 ### ID wins
 
