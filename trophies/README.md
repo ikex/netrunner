@@ -1,8 +1,13 @@
+
 # Corporation Trophies
-|#|Name|Desc|
-|-|----|----|
-||When you need the human touch. |(Play as Jinteki#67)|
-||Replicating Perfection |(Win as Jinteki Trace Amount #31)|
+Name|Desc
+----|----
+When you need the human touch. |(Play as Jinteki#67)
+Replicating Perfection |(Win as Jinteki Trace Amount #31)
+
+
+
+
 ||Effective. Reliable. Humane. |(Play as Haas Bioroid)|
 ||Perfecting the Genome |(Flawless Win as Haas Bioroid)|
 ||Engineering the Future |(Win as HB Core #54)|
