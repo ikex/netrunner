@@ -19,17 +19,14 @@ J2 | Replicating Perfection | (Win as Jinteki Trace Amount #31)
 J3 | Biomedical Pioneer | (Win as Jinteki Honor and Profit #1)
 J4 | The Next Generation | (Win as Jinteki Honor and Profit #2)
 J5 | The Secrets Within | (Win as Jinteki Honor and Profit #3)
----
 H1 | Engineering the Future | (Win as HB Core #54)
 H2 | Stronger Together | (Win as HB What Lies Ahead #10)
 H3 | Cerebral Imaging: Infinite Frontiers | (Win as HB C&C #1)
 H4 | Custom Biotics: Engineered for Success | (Win as HB C&C #2)
 H5 | NEXT Design: Guarding the Net | (Win as HB C&C #3)
----
 W1 | Building Better Worlds | (Win as Weyland Core #93)
 W2 | Because We Built It | (Win as Weyland Study in Static #76)
 W3 | GRNDL: Power Unleashed | (Win as Weyland Fear and Loathing #97)
----
 N1 | Making News | (Win as NBN Core #80)
 N2 | The World Is Yours | (Win as NBN Future Proof #114)
 
