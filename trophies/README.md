@@ -1,39 +1,41 @@
 # Corporation Trophies
-When you need the human touch. (Play as Jinteki#67)
-Replicating Perfection (Win as Jinteki Trace Amount #31)
-Effective. Reliable. Humane. (Play as Haas Bioroid)
-Perfecting the Genome (Flawless Win as Haas Bioroid)
-Engineering the Future (Win as HB Core #54)
-Stronger Together (Win as HB What Lies Ahead #10)
-Someone is always watching. (Play as NBN)
-Exclusive (Flawless Win as NBN)
-Making News (Win as NBN Core #80)
-The World Is Yours (Win as NBN Future Proof #114)
-Moving Upwards (Play as Weyland)
-No One Will Hear You Scream (Flawless Win as Weyland)
-Building Better Worlds (Win as Weyland Core #93)
-Because We Built It (Win as Weyland Study in Static #76)
-Hello Mr. Anderson (Defeat Anarch)
-Justice (Defeat a Criminal)
-Firmware Updates (Defeat a Shaper)
-Ctrl-Alt-Delete (Flatline a Runner with Net Damage)
-Carrion (Flatline a Runner with Meat Damage)
-Shell Shock (Flatline a Runner with Brain Damage)
-High Quarterly Dividends (Win by scoring 7+ Agenda points)
-Fortune 500 (Win by scoring 9+ Agenda points)
-Startup Acquisitions (Score 5+ Agendas in a single game)
-Short Sale (Win with an Agenda remaining in Archives*)
-Secret Initiative (Score an Agenda without protecting it with ICE *)
-Commercial Insurance (Protect a server with 4+ pieces of ICE)
-Stock Spikes (Accumulate 25+ credits as the Corporation)
-Excess Capital (Advance any server 10+ times)
-Cerebral Imaging: Infinite Frontiers (Win as HB C&C #1)
-Custom Biotics: Engineered for Success (Win as HB C&C #2)
-NEXT Design: Guarding the Net (Win as HB C&C #3)
-GRNDL: Power Unleashed (Win as Weyland Fear and Loathing #97)
-Biomedical Pioneer (Win as Jinteki Honor and Profit #1)
-The Next Generation (Win as Jinteki Honor and Profit #2)
-The Secrets Within (Win as Jinteki Honor and Profit #3)
+|#|Name|Desc|
+-------------
+||When you need the human touch. |(Play as Jinteki#67)|
+||Replicating Perfection |(Win as Jinteki Trace Amount #31)|
+||Effective. Reliable. Humane. |(Play as Haas Bioroid)|
+||Perfecting the Genome |(Flawless Win as Haas Bioroid)|
+||Engineering the Future |(Win as HB Core #54)|
+||Stronger Together |(Win as HB What Lies Ahead #10)|
+||Someone is always watching. |(Play as NBN)|
+||Exclusive |(Flawless Win as NBN)|
+||Making News |(Win as NBN Core #80)|
+||The World Is Yours |(Win as NBN Future Proof #114)|
+||Moving Upwards |(Play as Weyland)|
+||No One Will Hear You Scream |(Flawless Win as Weyland)|
+||Building Better Worlds |(Win as Weyland Core #93)|
+||Because We Built It |(Win as Weyland Study in Static #76)|
+||Hello Mr. Anderson |(Defeat Anarch)|
+||Justice |(Defeat a Criminal)|
+||Firmware Updates |(Defeat a Shaper)|
+||Ctrl-Alt-Delete |(Flatline a Runner with Net Damage)|
+||Carrion |(Flatline a Runner with Meat Damage)|
+||Shell Shock |(Flatline a Runner with Brain Damage)|
+||High Quarterly Dividends |(Win by scoring 7+ Agenda points)|
+||Fortune 500 |(Win by scoring 9+ Agenda points)|
+||Startup Acquisitions |(Score 5+ Agendas in a single game)|
+||Short Sale |(Win with an Agenda remaining in Archives*)|
+||Secret Initiative |(Score an Agenda without protecting it with ICE *)|
+||Commercial Insurance |(Protect a server with 4+ pieces of ICE)|
+||Stock Spikes |(Accumulate 25+ credits as the Corporation)|
+||Excess Capital |(Advance any server 10+ times)|
+||Cerebral Imaging: Infinite Frontiers |(Win as HB C&C #1)|
+||Custom Biotics: Engineered for Success |(Win as HB C&C #2)|
+||NEXT Design: Guarding the Net |(Win as HB C&C #3)|
+||GRNDL: Power Unleashed |(Win as Weyland Fear and Loathing #97)|
+||Biomedical Pioneer |(Win as Jinteki Honor and Profit #1)|
+||The Next Generation |(Win as Jinteki Honor and Profit #2)|
+||The Secrets Within |(Win as Jinteki Honor and Profit #3)|
 
 # Runner Trophies
 Viral (Play as Anarch)
