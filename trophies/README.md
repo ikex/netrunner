@@ -2,6 +2,7 @@
 # Corporation Trophies
 ## Corporation ID Achievements
 ### Core
+
 id|Name|Description
 --|----|-----------
 J|When you need the human touch.|(Play as Jinteki)
@@ -10,6 +11,7 @@ N|Someone is always watching. |(Play as NBN)
 W|Moving Upwards |(Play as Weyland)
 
 ### ID wins
+
 id|Name|Description
 --|----|-----------
 J1|When you need the human touch. |(Play as Jinteki#67)
