@@ -1,7 +1,8 @@
 
-# Corporation Trophies
-## Corporation ID Achievements
-### Core
+# Trophies 
+## Corporation 
+### ID Achievements
+#### Plays
 
 id | Name | Description
 --- | --- | ---
@@ -10,11 +11,11 @@ H | Effective. Reliable. Humane. | (Play as Haas Bioroid)
 N | Someone is always watching. | (Play as NBN)
 W | Moving Upwards | (Play as Weyland)
 
-### ID wins
+#### Wins
 
 id | Name | Description
 --- | --- | ---
-J1 | When you need the human touch. | (Play as Jinteki#67)
+J1 | When you need the human touch. | (Win as Jinteki Core #67)
 J2 | Replicating Perfection | (Win as Jinteki Trace Amount #31)
 J3 | Biomedical Pioneer | (Win as Jinteki Honor and Profit #1)
 J4 | The Next Generation | (Win as Jinteki Honor and Profit #2)
@@ -30,19 +31,23 @@ W3 | GRNDL: Power Unleashed | (Win as Weyland Fear and Loathing #97)
 N1 | Making News | (Win as NBN Core #80)
 N2 | The World Is Yours | (Win as NBN Future Proof #114)
 
-FH|Perfecting the Genome |(Flawless Win as Haas Bioroid)
-FN|Exclusive |(Flawless Win as NBN)
-FW|No One Will Hear You Scream |(Flawless Win as Weyland)
-XA|Hello Mr. Anderson |(Defeat Anarch)
-XC|Justice |(Defeat a Criminal)
-XS|Firmware Updates |(Defeat a Shaper)
-XND|Ctrl-Alt-Delete |(Flatline a Runner with Net Damage)
-XMD|Carrion |(Flatline a Runner with Meat Damage)
-XBD|Shell Shock |(Flatline a Runner with Brain Damage)
-X7|High Quarterly Dividends |(Win by scoring 7+ Agenda points)
-X9|Fortune 500 |(Win by scoring 9+ Agenda points)
-S5|Startup Acquisitions |(Score 5+ Agendas in a single game)
+### Win achievements
 
+id | Name | Description
+--- | --- | ---
+FH | Perfecting the Genome | (Flawless Win as Haas Bioroid)
+FN | Exclusive | (Flawless Win as NBN)
+FW | No One Will Hear You Scream | (Flawless Win as Weyland)
+XA | Hello Mr. Anderson | (Defeat Anarch)
+XC | Justice | (Defeat a Criminal)
+XS | Firmware Updates | (Defeat a Shaper)
+XND | Ctrl-Alt-Delete | (Flatline a Runner with Net Damage)
+XMD | Carrion | (Flatline a Runner with Meat Damage)
+XBD | Shell Shock | (Flatline a Runner with Brain Damage)
+X7 | High Quarterly Dividends | (Win by scoring 7+ Agenda points)
+X9 | Fortune 500 | (Win by scoring 9+ Agenda points)
+
+S5|Startup Acquisitions | (Score 5+ Agendas in a single game)
 Short Sale |(Win with an Agenda remaining in Archives*)
 Secret Initiative |(Score an Agenda without protecting it with ICE *)
 Commercial Insurance |(Protect a server with 4+ pieces of ICE)
